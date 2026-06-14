@@ -35,7 +35,7 @@ Previous work can be accessed through the links below:
 * Database concepts
 * Assignment completed
 
-### Week 3 - Advanced SQL
+### Week 3 - Subqueries
 
 * Subqueries
 * Common Table Expressions (CTEs)
@@ -45,15 +45,15 @@ Previous work can be accessed through the links below:
 * Superstore Sales Analysis Project
 * Assignment completed
 
-### Week 4 - Data Engineering Fundamentals
+### Week 4 - Data Engineering Concepts
 
 * To be updated
 
-### Week 5 - Data Processing and Cleaning
+### Week 5 - Data Cleaning 
 
 * To be updated
 
-### Week 6 - Apache Spark
+### Week 6 - Spark Introduction
 
 * To be updated
 
@@ -61,12 +61,9 @@ Previous work can be accessed through the links below:
 
 * To be updated
 
-### Week 8 - Final Learning Outcomes
+### Week 8 - Planning
 
 * To be updated
-
-## Repository Structure
-
 
 
 ## Technologies & Tools
