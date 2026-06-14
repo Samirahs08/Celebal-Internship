@@ -1,27 +1,32 @@
-# Superstore Sales Analysis using SQL
+# Customer Sales Insights using SQL
 
 ## Objective
 
-Analyze Superstore sales data using SQL concepts such as Subqueries, CTEs, Joins, and Window Functions.
+Analyze customer sales data using SQL concepts such as Subqueries, CTEs, Joins, and Window Functions.
 
 ## Dataset
 
 * Sample Superstore Dataset
 
-## Tasks Performed
+## SQL Concepts Used
 
-* Loaded CSV data into SQLite database
-* Created `customers`, `orders`, and `products` tables
-* Applied Subqueries for sales analysis
-* Used CTEs for customer-level aggregations
-* Implemented Window Functions (`ROW_NUMBER`, `RANK`)
-* Combined JOIN, CTE, and Window Functions for ranking customers
+* Subqueries
+* Common Table Expressions (CTEs)
+* Joins
+* Window Functions (`ROW_NUMBER`, `RANK`)
 
-## Business Insights
+## Analysis Performed
 
-* Identified customers with above-average sales
-* Found highest-value order for each customer
-* Ranked customers based on total sales
-* Extracted top and low-performing customers
-* Identified customers with only one order
+* Top 5 Customers by Sales
+* Bottom 5 Customers by Sales
+* Customers with Only One Order
+* Customers with Above-Average Sales
+* Highest Order Value per Customer
+* Customer Ranking Based on Total Sales
 
+## Key Insights
+
+* Identified highest and lowest revenue-generating customers.
+* Analyzed customer purchasing behavior.
+* Determined customers exceeding average sales performance.
+* Ranked customers based on total sales contribution.
