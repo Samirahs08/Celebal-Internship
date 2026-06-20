@@ -47,8 +47,15 @@ Previous work can be accessed through the links below:
 
 ### Week 4 - Data Engineering Concepts
 
-* To be updated
-
+* Task-1(Resource-Group)
+* Task-2(Storage-Setup)
+* Task-3(ADF-Basics)
+* Task-4(Pipeline-Development)
+* Task-5(Pipeline-Execution)
+* Task-6(IAM-Roles)
+* Mini-Project(Azure-ADF-Pipeline)
+* Assignment completed
+ 
 ### Week 5 - Data Cleaning 
 
 * To be updated
