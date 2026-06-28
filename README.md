@@ -58,7 +58,11 @@ Previous work can be accessed through the links below:
  
 ### Week 5 - Data Cleaning 
 
-* To be updated
+* Handle nulls, duplicates, and data type fixes
+* GroupBy, `sum()`, `avg()`, and derived columns
+* Spark introduction and Big Data concepts
+* Data cleaning and transformations
+* Spark assignment questions
 
 ### Week 6 - Spark Introduction
 
