@@ -66,7 +66,11 @@ Previous work can be accessed through the links below:
 
 ### Week 6 - Spark Introduction
 
-* To be updated
+* Driver, Executor, Cluster understanding
+* Create DataFrame, schema, column operations
+* CSV vs Parquet, read/write
+* Filter, groupBy, partitioning
+* Assignment - Spark Assignment
 
 ### Week 7 - Databricks
 
@@ -87,8 +91,8 @@ Previous work can be accessed through the links below:
 - Git & GitHub
 - Data Analysis
 - Data Engineering Concepts
-- Apache Spark (Upcoming)
-- Databricks (Upcoming)
+- Apache Spark 
+- Databricks 
 
 ## Skills Developed
 
