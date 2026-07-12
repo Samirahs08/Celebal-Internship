@@ -74,7 +74,13 @@ Previous work can be accessed through the links below:
 
 ### Week 7 - Databricks
 
-* To be updated
+* Notebook & cluster management
+* ACID, versioning, tables
+* Fact & dimension modeling
+* Upserts using MERGE
+* Data layering architecture
+* Hands-on MERGE implementation
+* Assignment - Delta Lake MERGE Implementation
 
 ### Week 8 - Planning
 
