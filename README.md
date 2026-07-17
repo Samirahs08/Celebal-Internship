@@ -82,9 +82,16 @@ Previous work can be accessed through the links below:
 * Hands-on MERGE implementation
 * Assignment - Delta Lake MERGE Implementation
 
-### Week 8 - Planning
+### Week-8 - E-Commerce Order Analytics System
 
-* To be updated
+- Generate synthetic e-commerce datasets using Faker
+- Clean and validate customer, product, order, and order item data
+- Load cleaned data into a SQLite database
+- Perform SQL analytics using Joins, CTEs, Aggregate Functions, and Window Functions
+- Build a Python command-line reporting application
+- Generate business insights such as revenue, orders, top products, and customer metrics
+- Implement edge case testing for data integrity and validation
+- **Assignment:** E-Commerce Order Analytics System
 
 
 ## Technologies & Tools
