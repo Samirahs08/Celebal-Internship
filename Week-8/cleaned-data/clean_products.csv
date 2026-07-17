@@ -1,0 +1,201 @@
+product_id,product_name,category,cost_price
+1,Face Wash,Toys,12595.09
+2,Shoes,Books,1423.89
+3,Toy Car,Home,33856.59
+4,Milk,Home,13879.13
+5,Microwave,Toys,50575.53
+6,Chair,Toys,75662.74
+7,Chocolate,Electronics,10774.43
+8,Coffee,Home,34442.73
+9,T-Shirt,Home,2697.44
+10,T-Shirt,Toys,83016.87
+11,Chair,Home,69578.75
+12,Dining Table,Clothing,3414.57
+13,Backpack,Home,27724.75
+14,Dining Table,Sports,60567.87
+15,T-Shirt,Toys,36323.01
+16,Milk,Home,11457.82
+17,Chair,Books,22633.45
+18,Shoes,Groceries,2436.99
+19,Chair,Electronics,21017.17
+20,Headphones,Toys,69765.27
+21,Toy Car,Beauty,688.29
+22,Backpack,Beauty,89951.85
+23,Dining Table,Beauty,32971.3
+24,Football,Home,81910.88
+25,Laptop,Beauty,64637.03
+26,Water Bottle,Groceries,30406.21
+27,Keyboard,Books,97557.85
+28,Chair,Home,59366.29
+29,Novel,Clothing,38483.31
+30,Mouse,Electronics,79544.26
+31,Rice,Toys,40419.93
+32,Chocolate,Beauty,61837.89
+33,Shoes,Beauty,72918.15
+34,Milk,Sports,16292.42
+35,Shampoo,Clothing,93841.42
+36,Mixer,Toys,11333.46
+37,Building Blocks,Groceries,16079.68
+38,Toy Car,Sports,25891.71
+39,Shoes,Groceries,24882.72
+40,Headphones,Beauty,51834.23
+41,Microwave,Electronics,28788.47
+42,Microwave,Sports,86748.45
+43,Toy Car,Beauty,64645.9
+44,Keyboard,Home,78637.19
+45,Coffee,Home,5779.66
+46,Novel,Clothing,4109.49
+47,Keyboard,Electronics,78105.18
+48,Face Wash,Clothing,78922.27
+49,Football,Books,56276.26
+50,Chair,Books,25111.06
+51,Novel,Groceries,82108.37
+52,Keyboard,Clothing,53156.77
+53,Shampoo,Home,92752.66
+54,Mouse,Beauty,39482.36
+55,Toy Car,Sports,26407.86
+56,Mouse,Home,16363.75
+57,Headphones,Books,48588.57
+58,Air Conditioner,Toys,24648.12
+59,Cricket Bat,Clothing,37007.63
+60,Air Conditioner,Electronics,48016.81
+61,Building Blocks,Sports,84302.66
+62,Smartphone,Books,59473.92
+63,Laptop,Clothing,7552.93
+64,Cricket Bat,Home,60324.28
+65,Jacket,Sports,36113.5
+66,Monitor,Sports,90688.88
+67,Football,Groceries,15898.63
+68,Keyboard,Books,26155.55
+69,Cricket Bat,Clothing,92482.12
+70,Notebook,Electronics,92822.27
+71,Building Blocks,Sports,23712.93
+72,Football,Beauty,72939.81
+73,Building Blocks,Toys,60136.36
+74,Mouse,Clothing,32862.92
+75,Backpack,Beauty,21310.81
+76,Monitor,Groceries,28490.63
+77,Building Blocks,Sports,43198.7
+78,Headphones,Groceries,7164.85
+79,Keyboard,Beauty,98835.12
+80,Football,Books,34527.46
+81,Refrigerator,Clothing,86300.54
+82,Jeans,Books,97580.72
+83,Face Wash,Groceries,91150.01
+84,Shampoo,Home,57704.57
+85,Toy Car,Beauty,60119.91
+86,T-Shirt,Toys,61875.23
+87,Monitor,Home,93676.87
+88,Dining Table,Clothing,67081.28
+89,Air Conditioner,Groceries,67229.43
+90,Cricket Bat,Groceries,82769.95
+91,Refrigerator,Toys,22789.09
+92,Water Bottle,Toys,89415.57
+93,Jeans,Sports,90072.79
+94,Chair,Sports,54360.95
+95,Keyboard,Beauty,88244.03
+96,Microwave,Beauty,53952.29
+97,Air Conditioner,Home,97942.98
+98,Shoes,Groceries,26296.08
+99,Monitor,Electronics,39809.96
+100,Water Bottle,Groceries,34927.35
+101,Shampoo,Groceries,74832.65
+102,Mouse,Clothing,47988.77
+103,Air Conditioner,Books,56888.78
+104,Water Bottle,Books,41345.04
+105,Chair,Toys,47948.33
+106,Mixer,Home,64924.18
+107,Cricket Bat,Sports,47171.13
+108,Mouse,Beauty,41529.3
+109,Milk,Groceries,89781.45
+110,Headphones,Beauty,36563.13
+111,Air Conditioner,Beauty,35586.21
+112,Coffee,Electronics,69534.68
+113,Laptop,Home,76676.68
+114,Water Bottle,Toys,60620.0
+115,Laptop,Books,84531.97
+116,Building Blocks,Books,77058.9
+117,Building Blocks,Clothing,22847.49
+118,Notebook,Beauty,21075.68
+119,Shampoo,Electronics,29056.15
+120,Laptop,Sports,65911.11
+121,Building Blocks,Beauty,4806.83
+122,Toy Car,Home,68428.48
+123,Refrigerator,Books,23786.02
+124,Building Blocks,Toys,38241.42
+125,Cricket Bat,Beauty,84302.32
+126,Headphones,Groceries,75021.87
+127,Mouse,Sports,99937.43
+128,Water Bottle,Electronics,61319.46
+129,Football,Home,5360.75
+130,Mixer,Clothing,41463.84
+131,Rice,Toys,10475.76
+132,Water Bottle,Books,92219.03
+133,Chair,Toys,41440.58
+134,Jacket,Sports,93530.27
+135,Rice,Books,37912.18
+136,Headphones,Sports,61982.45
+137,Dining Table,Beauty,79445.67
+138,Air Conditioner,Groceries,31431.79
+139,Chocolate,Electronics,35007.23
+140,Face Wash,Clothing,52937.98
+141,Jeans,Electronics,11328.76
+142,Smartphone,Toys,70244.66
+143,Chair,Toys,73896.55
+144,Mouse,Beauty,27541.81
+145,Smartphone,Clothing,34672.4
+146,Toy Car,Books,58398.59
+147,Coffee,Books,96303.95
+148,Air Conditioner,Electronics,15718.93
+149,Chair,Beauty,84989.75
+150,Coffee,Home,36737.35
+151,Cricket Bat,Electronics,55381.74
+152,Face Wash,Sports,11529.66
+153,Refrigerator,Toys,66707.78
+154,Jacket,Sports,99478.03
+155,Mouse,Home,35537.09
+156,Laptop,Clothing,10697.24
+157,Mixer,Electronics,95170.33
+158,Cricket Bat,Beauty,80314.29
+159,Water Bottle,Beauty,94510.06
+160,Headphones,Toys,61070.79
+161,Air Conditioner,Sports,25640.64
+162,Laptop,Toys,12759.09
+163,Refrigerator,Electronics,45620.66
+164,Face Wash,Beauty,29231.08
+165,Novel,Clothing,19385.7
+166,Jacket,Clothing,24084.67
+167,Jacket,Sports,53515.4
+168,Building Blocks,Electronics,6388.58
+169,Jacket,Clothing,23496.53
+170,Laptop,Sports,11845.83
+171,Coffee,Electronics,33388.27
+172,Shoes,Toys,80259.79
+173,Chair,Electronics,8242.52
+174,T-Shirt,Electronics,5140.78
+175,Jeans,Electronics,74029.42
+176,Shampoo,Toys,20796.07
+177,Shampoo,Groceries,88001.71
+178,Jacket,Sports,6007.88
+179,Novel,Electronics,70344.84
+180,Football,Clothing,89212.24
+181,T-Shirt,Books,4440.95
+182,Laptop,Home,7869.68
+183,Refrigerator,Toys,12161.18
+184,Dining Table,Home,37120.17
+185,Milk,Toys,52761.47
+186,Air Conditioner,Sports,43878.71
+187,Shoes,Home,74120.29
+188,Chocolate,Beauty,1825.12
+189,Football,Home,61258.87
+190,Dining Table,Toys,14679.11
+191,Jacket,Home,23376.55
+192,Chocolate,Groceries,55848.87
+193,Smartphone,Groceries,57894.33
+194,Rice,Electronics,99470.18
+195,Shampoo,Electronics,32150.0
+196,Coffee,Beauty,13292.44
+197,Microwave,Groceries,12345.8
+198,Laptop,Groceries,43486.38
+199,Rice,Beauty,93219.9
+200,Football,Books,19724.3
